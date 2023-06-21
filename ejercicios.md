@@ -76,7 +76,7 @@
 
     $$5y-3=x(2+y)$$
 
-    Hasta este punto ya tenemos la $x$ sola, lo que resta es quitarle el $(2+y) que la está multiplicando, esto se quita dividiendo por ese mismo paréntesis en ámbos lados de la ecuación:
+    Hasta este punto ya tenemos la $x$ sola, lo que resta es quitarle el $(2+y)$ que la está multiplicando, esto se quita dividiendo por ese mismo paréntesis en ámbos lados de la ecuación:
     
     $$\frac{5y-3}{2+y}=\frac{x\bcancel{(2+y)}}{\bcancel{2+y}}$$
     $$\frac{5y-3}{2+y}=x$$
